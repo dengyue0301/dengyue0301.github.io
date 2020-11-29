@@ -8,7 +8,7 @@
       <p><b>地址：南京市栖霞区仙林大道163号，邮编210093</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/生活照.jpg" width="100%">
     </td>
   </tr>
 </table>
